@@ -1,0 +1,1 @@
+This repository is for a landing page for Run Buddy, a site that connects people to personal trainers.

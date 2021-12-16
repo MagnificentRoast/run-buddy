@@ -34,7 +34,7 @@ header a {
 
 header a {
     text-decoration: none;
-    color: hsl(52, 97%, 60%)
+    color: #fce138;
 }
 
 header nav {
@@ -130,3 +130,4 @@ section {
     width: 100%;
     margin-bottom: 15px;
 }
+

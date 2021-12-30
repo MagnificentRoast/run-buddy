@@ -278,3 +278,8 @@ section {
   font-size: 42px;
   font-style: italic;
 }
+
+.hero-cta {
+  flex: flex;
+  flex-wrap: wrap;
+}

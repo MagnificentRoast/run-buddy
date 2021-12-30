@@ -1,1 +1,14 @@
-This repository is for a landing page for Run Buddy, a site that connects people to personal trainers.
+# Run Buddy
+
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://magnificentroast.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by MagnificentRoast
